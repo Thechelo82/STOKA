@@ -1,0 +1,4 @@
+logo.png y logo.ico son el logo del programa (S azul + caja).
+logo_original.png es la imagen completa, con el fondo oscuro, por si hay que regenerar.
+
+El .exe usa assets\logo.ico como icono (ver build_exe.bat).
